@@ -24,3 +24,6 @@ function prependKitten(name){
   var moreKittens = newCat.concat(kittens)
   return moreKittens
 }
+function removeLastKitten(){
+  kittens.slice([0], [1])
+}
