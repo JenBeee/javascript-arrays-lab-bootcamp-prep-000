@@ -1,3 +1,3 @@
 // Add your functions and code here
-new array kittens() = ["Milo", "Otis", "Garfield"]
+var kittens = new array() ["Milo", "Otis", "Garfield"]
 return kittens
